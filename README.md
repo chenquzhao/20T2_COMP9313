@@ -5,6 +5,4 @@ Complying with UNSW Policy on Academic Honesty and Plagiarism, the assignments a
 
 Project1: LSH
 
-Assignment: Written Questions
-
 Project2: Stacking
